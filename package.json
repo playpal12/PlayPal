@@ -34,7 +34,7 @@
     "daisyui": "^2.51.3",
     "eslint": "^8.35.0",
     "eslint-config-next": "^13.2.4",
-    "framer-motion": "^10.2.4",
+    "framer-motion": "^10.2.5",
     "husky": "^8.0.3",
     "js-cookie": "^3.0.1",
     "postcss": "^8.4.21",
